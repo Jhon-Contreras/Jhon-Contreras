@@ -11,3 +11,4 @@ I'm Jhon Contreras, Front-End developer.
 - 🎯 Others: Bootstrap, Materialize, GIT, Wordpress
 - ✒️ Design software: Adobe XD, Photoshop, Illustrator
 
+Linkedin Profile: https://www.linkedin.com/in/jhoncontrerassoto/
