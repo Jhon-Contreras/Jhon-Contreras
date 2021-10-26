@@ -7,7 +7,6 @@ I'm Jhon Contreras, Front-End developer.
 ## Skills
 - 👨‍💻 JavaScript, HTML 
 - 🚀 ReactJS (in progress...)
-- 🚀 VueJS (after React :D)
 - 👁️ SASS, CSS
 - 🎯 Others: Bootstrap, Materialize, GIT, Wordpress
 - ✒️ Design software: Adobe XD, Photoshop, Illustrator
