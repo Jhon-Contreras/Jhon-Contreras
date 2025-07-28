@@ -1,7 +1,7 @@
 
 
 ## Hey! 👋
-I'm Jhon Contreras, Computer Engineer, Front-End developer.
+I'm Jhon Contreras, Computer Engineer, Front-End developer with 7+ years of experience
 
 
 ## 🧠 Tech Stack & Skills
